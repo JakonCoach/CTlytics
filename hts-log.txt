@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Oct 2024 13:28:54 at https://ctlyticstry.framer.website +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Oct 2024 14:09:41 at https://ctlyticstry.framer.website +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 
 (winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ctlyticstry.framer.website -O1 "C:\My Web Sites\CT" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
@@ -14,11 +14,165 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 
 
-13:33:04	Error: 	"Not Found" (404) at link https://ctlyticstry.framer.website/players/'https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap' (from https://ctlyticstry.framer.website/players/tni-kr1sz-1tap)
+14:09:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/8eQ1oQCP2QLDtWk6w5qSe27ts.png
+
+14:09:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/b00OhyFldG7rePML5TZCncrcFo.png
+
+14:09:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/eHwq5q9Jp8BQeadP6oNomaQJ2k.png
+
+14:09:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/HFQgLs3t7x0RBDWzpBprzvOSMo.png
+
+14:09:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/B4xiN4lVx6BwHqfngd8v5QNMjHs.jpg
+
+14:09:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/uniYlymFHPyQS1rvuuaXNnX39M.png
+
+14:09:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/LYnTRlPaIzBnyDVxqSMwsb7mIU.jpg
+
+14:09:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/WAZfI2Ef1lrKfiG0TafOwL1XtHc.png
+
+14:09:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/42I7pe5VX5CCKDhS4aMHn8qVo0.jpg
+
+14:09:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/gIXlzONOif4FcGd6GsvNxBwvxE.png
+
+14:09:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/b889vTb6GcGrF55nwy898DCElnc.jpg
+
+14:09:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/PVw86MFJ81JO0Gmt4Vsv6QLKrE.png
+
+14:09:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/5KqySrOAEZNNPiEttJxJXCQtD5U.jpg
+
+14:09:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Dt1nps6MaACitFFTsN9r7IrVPjs.jpg
+
+14:09:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/PhESjIDlXXtfwzCKIaINw0LQa5k.png
+
+14:09:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/CgxNT83AYzcRaiNXsNIiqR9cbc.jpg
+
+14:09:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/jOWmph6FzyFrkMDZAnZAbTD8D58.jpg
+
+14:09:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Q0fcr3AXPNXRGpFiYZfz7IlgoA.png
+
+14:09:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/kr9LBmX9IZEIElKonvPw9VphPI4.jpg
+
+14:10:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/xljTkypWbuAq9l4Cn8KUZzdLtm4.png
+
+14:10:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/jGzTCNlseLymIpFcPbq6rDlmE.png
+
+14:10:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/YEaMS81HKsB8zS3b3LMjEOMSdPM.png
+
+14:10:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/KD7Exo9WUDsaviExI82hP99L9Xk.jpg
+
+14:10:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/sHY7ofrTSl70VuYMeCCpUbnC2I.jpg
+
+14:10:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/WNGk6ynrfAJMzlbjqPiD20NZgI.jpg
+
+14:10:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/IOtCFcEWTRvwYz4WrFbPifWLs.png
+
+14:10:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/YtzIgv1jrz7vfioxR2OY66DkkQ.jpg
+
+14:10:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/omKnM0320BBbxwiQ4KVidM5GkGw.jpg
+
+14:10:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/dnU45igAAzVpBa7HqyeP0sMZQbI.png
+
+14:10:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/HMy1hnhLXayXCr3RlYg1QCJGJUc.png
+
+14:10:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/ui2KFkNNFlkxG5HCtqwUC0i5dO8.jpg
+
+14:10:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/MtrEYQe9n2WPWaTmfUdwfoBMs.png
+
+14:10:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/PEwbE4a0QoeHUMNAuBWPNsFdeFw.png
+
+14:10:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/5nsdnFiZR7jvI6lfvGU7XcdZf8.jpg
+
+14:10:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/EfJ01T8B3NyW3lcA7M76x5UQ4.png
+
+14:10:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/SrqmTdFdjTurafLE59GFiDKeCL8.jpg
+
+14:10:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/hRfjtUkiNksuy7c05NVjfEvfedM.png
+
+14:10:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/irmADRd5NGQi4zqkuyu7iAtdz0.jpg
+
+14:10:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/qiK4auhJZSKiGDVUF3Q5oIePaa8.jpg
+
+14:10:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/T5FdKpKFq0eCH7UGyut2s6OQ3kg.png
+
+14:10:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/EjXgWyuBBMMYQVNXvArasvYwE.png
+
+14:10:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/hAavWdcUTlgN68LCPYMnSDr2M.jpg
+
+14:10:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/gjgRxAbedlfAljV7PAaIVajOYc.jpg
+
+14:10:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/QCemsehvrrWlG6xB7uyEB1dpE.png
+
+14:10:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/F3UT3CAdtqUf9HMsUjwH5GK9M8.jpg
+
+14:10:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/AHVtvti3bAXTeKLs8VEBDtL18.jpg
+
+14:10:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/TxUaYeakTkly9rRkw2gFMo8o.png
+
+14:10:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/8a3E2RNKmg7yTplwr6kvH7PAUEk.png
+
+14:10:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/WOo8ipeYyujoypicLjE1YDhg9IQ.jpg
+
+14:10:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/BtpZ68UJ4m6MftCKosOQ2YsU58.jpg
+
+14:10:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/6YxXvLk4bMeAE538RLJpqoXMXE.png
+
+14:10:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Adz8LThRi8mmULe3vIZX3t51dqc.jpg
+
+14:10:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/YzIBKI1t3WL5c2lvYCWien4PgQ.jpg
+
+14:10:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/LeoxqMFmSgWMrqumPOgIz7ArAU.jpg
+
+14:10:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/sg1jTXlx4v3Isd3DU1FiGRqirw.jpg
+
+14:10:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/82R3uYS0mQQvdG49Lwg9ddTmoGg.jpg
+
+14:10:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/UBSexwMJxFu9Z3qmWP1gbcyBGg.png
+
+14:10:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/pdOnX1KaGeMsccEuMJLkzeB7ra0.png
+
+14:10:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/XaD6LzJNQkaP8LMqPE24K8bY0.png
+
+14:10:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Ixh904GbphdaaGd1e9LpYvAneA.png
+
+14:10:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/rBAcbBlEbqHecsRzDBD9ET5bAII.png
+
+14:10:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/jXhQRgVFVVIjPFXiZ3bUOEh2A0.png
+
+14:10:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/NEm41m6RKPH24t6SbUPKeRRzs.png
+
+14:10:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/r7Tv3qA5LlzsEpmBCzpuYg2beU.png
+
+14:10:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/jlcLMWTBOXuy256gAByZ8ToGf1g.png
+
+14:10:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Yht6BJxQYfBYSkMQY1UnLtMsY3Q.png
+
+14:10:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/QXfW7eoYGTcl0FygWVdoxIPfKf8.jpg
+
+14:11:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/am2kFfXEeHkQlGEHbgbHW0LdLM.png
+
+14:11:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/EX8rDkCbxEvfyTFawpOIFklyf1Q.jpg
+
+14:11:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/3GIE5ZRnDZj5ZPZRVdg59VhA3lk.png
+
+14:11:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/NDy8Bg7hDhUasLmq8SJjB5DDH3A.png
+
+14:11:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/EoCVjBXHcuo57wvtcITmhafy9No.png
+
+14:11:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/uUXgobOcv64tuIOqDeb4d6bGRAI.jpg
+
+14:11:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/PlAyrSa1YUixHPEro6gEh5VRA.jpg
+
+14:11:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Q73BuzrpjCIYPor6T5kmG4lRhFQ.png
+
+14:11:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/A64fsQ9XNU8qajcQnSy4UjWYI8.jpg
+
+14:11:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/wNW5MUsVFJgjkATW8qoGt6ft5SY.png?scale-down-to=2048
+
+14:14:42	Error: 	"Not Found" (404) at link https://ctlyticstry.framer.website/players/'https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap' (from https://ctlyticstry.framer.website/players/tni-kr1sz-1tap)
 
 
 
-HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 13 seconds : 595 links scanned, 593 files written (154473239 bytes overall), 561 files updated [30736237 bytes received at 121487 bytes/sec], 140669155 bytes transferred using HTTP compression in 466 files, ratio 13%, 1.2 requests per connection
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 4 seconds : 595 links scanned, 593 files written (154472807 bytes overall), 591 files updated [33237025 bytes received at 109332 bytes/sec], 140668723 bytes transferred using HTTP compression in 466 files, ratio 13%, 1.2 requests per connection
 
-(1 errors, 0 warnings, 0 messages)
+(1 errors, 77 warnings, 0 messages)
 
